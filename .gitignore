@@ -1,0 +1,7 @@
+bin/
+.vscode
+.idea
+*.env
+.DS_Store
+cmd/template-service/template-service
+coverage.*
